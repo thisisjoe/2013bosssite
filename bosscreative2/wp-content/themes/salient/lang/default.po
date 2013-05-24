@@ -1,0 +1,2156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Salient\n"
+"POT-Creation-Date: 2013-05-02 10:21-0500\n"
+"PO-Revision-Date: 2013-05-02 10:21-0500\n"
+"Last-Translator: \n"
+"Language-Team: ThemeNectar <phil@themenectar.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11
+msgid "Not Found."
+msgstr ""
+
+#: ../comments.php:49
+msgid "Leave a comment"
+msgstr ""
+
+#: ../comments.php:49
+msgid "Leave a comment to"
+msgstr ""
+
+#: ../comments.php:49
+msgid "Cancel reply"
+msgstr ""
+
+#: ../comments.php:52
+msgid "Your email address will not be published. Required fields are marked."
+msgstr ""
+
+#: ../comments.php:63
+msgid "Logged in as"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Log out"
+msgstr ""
+
+#: ../comments.php:70
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:478
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:74
+msgid "Mail"
+msgstr ""
+
+#: ../comments.php:78
+msgid "Website"
+msgstr ""
+
+#: ../functions.php:343
+msgid "Slides"
+msgstr ""
+
+#: ../functions.php:344
+msgid "Slide"
+msgstr ""
+
+#: ../functions.php:345
+msgid "Search Slides"
+msgstr ""
+
+#: ../functions.php:346
+msgid "All Slides"
+msgstr ""
+
+#: ../functions.php:347
+msgid "Parent Slide"
+msgstr ""
+
+#: ../functions.php:348
+msgid "Edit Slide"
+msgstr ""
+
+#: ../functions.php:349
+msgid "Update Slide"
+msgstr ""
+
+#: ../functions.php:350
+msgid "Add New Slide"
+msgstr ""
+
+#: ../functions.php:351 ../functions.php:356
+msgid "Home Slider"
+msgstr ""
+
+#: ../functions.php:555 ../functions.php:558
+msgid "Portfolio"
+msgstr ""
+
+#: ../functions.php:556 ../search.php:63
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../functions.php:557
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: ../functions.php:559
+msgid "Parent Portfolio Item"
+msgstr ""
+
+#: ../functions.php:560
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../functions.php:561
+msgid "Update Portfolio Item"
+msgstr ""
+
+#: ../functions.php:562
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../functions.php:573
+msgid "Project"
+msgstr ""
+
+#: ../functions.php:593 ../functions.php:601
+msgid "Project Categories"
+msgstr ""
+
+#: ../functions.php:594
+msgid "Project Category"
+msgstr ""
+
+#: ../functions.php:595
+msgid "Search Project Categories"
+msgstr ""
+
+#: ../functions.php:596
+msgid "All Project Categories"
+msgstr ""
+
+#: ../functions.php:597
+msgid "Parent Project Category"
+msgstr ""
+
+#: ../functions.php:598
+msgid "Edit Project Category"
+msgstr ""
+
+#: ../functions.php:599
+msgid "Update Project Category"
+msgstr ""
+
+#: ../functions.php:600
+msgid "Add New Project Category"
+msgstr ""
+
+#: ../functions.php:614 ../functions.php:623
+msgid "Project Attributes"
+msgstr ""
+
+#: ../functions.php:615
+msgid "Project Attribute"
+msgstr ""
+
+#: ../functions.php:616
+msgid "Search Project Attributes"
+msgstr ""
+
+#: ../functions.php:617
+msgid "All Project Attributes"
+msgstr ""
+
+#: ../functions.php:618
+msgid "Parent Project Attribute"
+msgstr ""
+
+#: ../functions.php:619
+msgid "Edit Project Attribute"
+msgstr ""
+
+#: ../functions.php:620
+msgid "Update Project Attribute"
+msgstr ""
+
+#: ../functions.php:621
+msgid "Add New Project Attribute"
+msgstr ""
+
+#: ../functions.php:622
+msgid "New Project Attribute"
+msgstr ""
+
+#: ../functions.php:1030 ../functions.php:1053
+msgid "All"
+msgstr ""
+
+#: ../header.php:87
+msgid "Search.."
+msgstr ""
+
+#: ../page-portfolio.php:165 ../page-portfolio.php:172
+#: ../template-home-1.php:153 ../template-home-1.php:160
+#: ../template-home-3.php:157 ../template-home-3.php:164
+#: ../nectar/tinymce/shortcode-processing.php:603
+#: ../nectar/tinymce/shortcode-processing.php:610
+msgid "Watch Video"
+msgstr ""
+
+#: ../page-portfolio.php:179 ../template-home-1.php:167
+#: ../template-home-3.php:171 ../nectar/tinymce/shortcode-processing.php:617
+msgid "View Larger"
+msgstr ""
+
+#: ../page-portfolio.php:182 ../template-home-1.php:170
+#: ../template-home-3.php:174 ../nectar/tinymce/shortcode-processing.php:642
+msgid "More Details"
+msgstr ""
+
+#: ../search.php:34
+msgid "Results For"
+msgstr ""
+
+#: ../search.php:54
+msgid "Blog Post"
+msgstr ""
+
+#: ../search.php:58
+msgid "Page"
+msgstr ""
+
+#: ../search.php:70
+msgid "No results found"
+msgstr ""
+
+#: ../searchform.php:11
+msgid "Start Typing..."
+msgstr ""
+
+#: ../single.php:13 ../includes/post-templates/entry-audio.php:35
+#: ../includes/post-templates/entry-gallery.php:42
+#: ../includes/post-templates/entry-video.php:40
+#: ../includes/post-templates/entry.php:46
+msgid "Posted by"
+msgstr ""
+
+#: ../single.php:19 ../template-home-2.php:158 ../template-home-3.php:280
+#: ../includes/post-templates/entry-audio.php:36
+#: ../includes/post-templates/entry-gallery.php:43
+#: ../includes/post-templates/entry-video.php:41
+#: ../includes/post-templates/entry.php:47
+#: ../nectar/tinymce/shortcode-processing.php:518
+msgid "No Comments"
+msgstr ""
+
+#: ../single.php:19 ../includes/post-templates/entry-audio.php:36
+#: ../includes/post-templates/entry-gallery.php:43
+#: ../includes/post-templates/entry-video.php:41
+#: ../includes/post-templates/entry.php:47
+msgid "One Comment "
+msgstr ""
+
+#: ../single.php:19 ../includes/post-templates/entry-audio.php:36
+#: ../includes/post-templates/entry-gallery.php:43
+#: ../includes/post-templates/entry-video.php:41
+#: ../includes/post-templates/entry.php:47
+msgid "% Comments"
+msgstr ""
+
+#: ../template-home-2.php:158 ../template-home-3.php:280
+msgid "One Comment"
+msgstr ""
+
+#: ../template-home-2.php:158 ../template-home-3.php:280
+msgid "Comments"
+msgstr ""
+
+#: ../includes/custom-widgets/recent-posts-extra-widget.php:13
+msgid "The most recent posts on your site, including post thumbnails & dates."
+msgstr ""
+
+#: ../includes/custom-widgets/recent-posts-extra-widget.php:14
+#: ../includes/custom-widgets/recent-posts-extra-widget.php:36
+msgid "Recent Posts Extra"
+msgstr ""
+
+#: ../includes/custom-widgets/recent-posts-extra-widget.php:99
+#: ../includes/custom-widgets/recent-projects-widget.php:98
+msgid "Title:"
+msgstr ""
+
+#: ../includes/custom-widgets/recent-posts-extra-widget.php:102
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../includes/custom-widgets/recent-posts-extra-widget.php:104
+msgid "(at most 15)"
+msgstr ""
+
+#: ../includes/custom-widgets/recent-projects-widget.php:14
+msgid "The most recent projects on your site."
+msgstr ""
+
+#: ../includes/custom-widgets/recent-projects-widget.php:15
+#: ../includes/custom-widgets/recent-projects-widget.php:37
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:588
+msgid "Recent Projects"
+msgstr ""
+
+#: ../includes/custom-widgets/recent-projects-widget.php:101
+msgid "Number of projects to show:"
+msgstr ""
+
+#: ../includes/custom-widgets/recent-projects-widget.php:103
+msgid "Change in increments of 3 (at most 9)"
+msgstr ""
+
+#: ../includes/post-templates/entry-audio.php:41
+#: ../includes/post-templates/entry-gallery.php:48
+#: ../includes/post-templates/entry-video.php:45
+#: ../includes/post-templates/entry.php:51
+msgid "Read More"
+msgstr ""
+
+#: ../nectar/assets/functions/multi-post-thumbnails/multi-post-thumbnails.php:75
+#, php-format
+msgid ""
+"The 'label' and 'id' values of the 'args' parameter of '%s::%s()' are "
+"required"
+msgstr ""
+
+#: ../nectar/assets/functions/multi-post-thumbnails/multi-post-thumbnails.php:154
+#, php-format
+msgid "Set as %3$s"
+msgstr ""
+
+#: ../nectar/love/nectar-love.php:83
+msgid "Love this"
+msgstr ""
+
+#: ../nectar/love/nectar-love.php:86
+msgid "You already love this!"
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:7
+msgid "Slide Settings"
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:8
+msgid ""
+"If you want a full width header with background image, please fill out the "
+"fields below."
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:14
+msgid "Slide Image"
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:15
+msgid ""
+"The image should be between 1600px - 2000px in width and have a minimum "
+"height of 700px for best results. Click the \"Upload\" button to begin "
+"uploading your image, followed by \"Select File\" once you have made your "
+"selection."
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:21
+msgid "Caption"
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:22
+msgid "Enter in the slide caption. (should be fairly short)"
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:28
+msgid "Button Text"
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:29
+msgid ""
+"If you would like a button to appear below your caption, please enter the "
+"text for it here."
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:35
+msgid "Button Link"
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:36
+msgid "Please enter the URL for the button here."
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:42
+msgid "Slide Alignment"
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:43
+msgid "Select the alignment for your caption and button."
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:69
+msgid "Slide Video Settings"
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:70
+msgid ""
+"If you want to feature a video in this slide, please fill out the fields "
+"below. <strong>Your video & image should be in a 16:9 aspect ratio.</strong>"
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:76 ../nectar/meta/portfolio-meta.php:76
+#: ../nectar/meta/post-meta.php:79
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:547
+msgid "M4V File URL"
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:77 ../nectar/meta/portfolio-meta.php:77
+msgid "Enter in the URL to the .m4v video file"
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:83 ../nectar/meta/portfolio-meta.php:83
+#: ../nectar/meta/post-meta.php:86
+msgid "OGV File URL"
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:84 ../nectar/meta/portfolio-meta.php:84
+msgid "Enter in the URL to the .ogv video file"
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:90 ../nectar/meta/portfolio-meta.php:97
+#: ../nectar/meta/post-meta.php:93
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:549
+msgid "Preview Image"
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:91 ../nectar/meta/portfolio-meta.php:98
+msgid ""
+"Image should be at least 680px wide. Click the \"Upload\" button to begin "
+"uploading your image, followed by \"Select File\" once you have made your "
+"selection. Only applies to self hosted videos."
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:97
+#: ../nectar/meta/portfolio-meta.php:104 ../nectar/meta/post-meta.php:100
+msgid "Embedded Code"
+msgstr ""
+
+#: ../nectar/meta/home-slider-meta.php:98
+msgid ""
+"If the video is an embed rather than self hosted, enter in a Vimeo or "
+"Youtube embed code here. <strong> Embeds work worse with the parallax "
+"effect, but if you must use this, Vimeo is recommended. </strong> "
+msgstr ""
+
+#: ../nectar/meta/meta-config.php:47
+#: ../nectar/options/fields/upload/field_upload.php:30
+#: ../nectar/tinymce/shortcode_generator/option-element.php:98
+#: ../nectar/tinymce/shortcode_generator/option-element.php:141
+msgid "Upload"
+msgstr ""
+
+#: ../nectar/meta/meta-config.php:48
+#: ../nectar/options/fields/upload/field_upload.php:31
+#: ../nectar/tinymce/shortcode_generator/option-element.php:99
+#: ../nectar/tinymce/shortcode_generator/option-element.php:142
+msgid "Remove Upload"
+msgstr ""
+
+#: ../nectar/meta/page-meta.php:10
+msgid "Page Header Settings"
+msgstr ""
+
+#: ../nectar/meta/page-meta.php:11
+msgid ""
+"Here you can configure how your page header will appear. <br/> For a full "
+"width background image behind your header text, simply upload the image "
+"below. To have a standard header just fill out the fields below and don't "
+"upload an image."
+msgstr ""
+
+#: ../nectar/meta/page-meta.php:17
+msgid "Page Header Image"
+msgstr ""
+
+#: ../nectar/meta/page-meta.php:18
+msgid ""
+"The image should be between 1600px - 2000px wide and have a minimum height "
+"of 475px for best results. Click \"Browse\" to upload and then \"Insert into "
+"Post\"."
+msgstr ""
+
+#: ../nectar/meta/page-meta.php:24
+msgid "Page Header Height"
+msgstr ""
+
+#: ../nectar/meta/page-meta.php:25
+msgid ""
+"How tall do you want your header? <br/>Don't include \"px\" in the string. e."
+"g. 350 <br/><strong>This only applies when you are using an image.</strong>"
+msgstr ""
+
+#: ../nectar/meta/page-meta.php:31
+msgid "Page Header Title"
+msgstr ""
+
+#: ../nectar/meta/page-meta.php:32
+msgid "Enter in the page header title"
+msgstr ""
+
+#: ../nectar/meta/page-meta.php:38
+msgid "Page Header Subtitle"
+msgstr ""
+
+#: ../nectar/meta/page-meta.php:39
+msgid "Enter in the page header subtitle"
+msgstr ""
+
+#: ../nectar/meta/portfolio-meta.php:17
+msgid "Project Thumbnail"
+msgstr ""
+
+#: ../nectar/meta/portfolio-meta.php:18
+msgid ""
+"If you would like to have a separate thumbnail for your portfolio item, "
+"upload it here. <br/> If left blank, a cropped version of your featured "
+"image will be automatically used instead."
+msgstr ""
+
+#: ../nectar/meta/portfolio-meta.php:24
+msgid "Custom Thumbnail Image"
+msgstr ""
+
+#: ../nectar/meta/portfolio-meta.php:25
+msgid "The recommended dimensions are 600px by 403px."
+msgstr ""
+
+#: ../nectar/meta/portfolio-meta.php:41
+msgid "Extra Content"
+msgstr ""
+
+#: ../nectar/meta/portfolio-meta.php:42
+msgid ""
+"Please use this section to place any extra content you would like to appear "
+"in the main content area under your portfolio item."
+msgstr ""
+
+#: ../nectar/meta/portfolio-meta.php:69 ../nectar/meta/post-meta.php:72
+msgid "Video Settings"
+msgstr ""
+
+#: ../nectar/meta/portfolio-meta.php:70
+msgid "If you have a video, please fill out the fields below."
+msgstr ""
+
+#: ../nectar/meta/portfolio-meta.php:90
+msgid "Video Height"
+msgstr ""
+
+#: ../nectar/meta/portfolio-meta.php:91
+msgid ""
+"This only needs to be filled out if your self hosted video is not in a 16:9 "
+"aspect ratio. Enter your height based on an 845px width. This is used to "
+"calculate the iframe height for the \"Watch Video\" link. <br/> "
+"<strong>Don't include \"px\" in the string. e.g. 480</strong>"
+msgstr ""
+
+#: ../nectar/meta/portfolio-meta.php:105
+msgid ""
+"If the video is an embed rather than self hosted, enter in a Youtube or "
+"Vimeo embed code here. The width should be a minimum of 670px with any "
+"height."
+msgstr ""
+
+#: ../nectar/meta/post-meta.php:11
+msgid "Gallery Settings"
+msgstr ""
+
+#: ../nectar/meta/post-meta.php:12
+msgid ""
+"Please use the sections that have appeared under the Featured Image block "
+"labeled \"Second Slide, Third Slide...\" etc to add images to your gallery."
+msgstr ""
+
+#: ../nectar/meta/post-meta.php:28
+msgid "Quote Settings"
+msgstr ""
+
+#: ../nectar/meta/post-meta.php:35
+msgid "Quote Content"
+msgstr ""
+
+#: ../nectar/meta/post-meta.php:36
+msgid "Please type the text for your quote here."
+msgstr ""
+
+#: ../nectar/meta/post-meta.php:50
+msgid "Link Settings"
+msgstr ""
+
+#: ../nectar/meta/post-meta.php:57
+msgid "Link URL"
+msgstr ""
+
+#: ../nectar/meta/post-meta.php:58
+msgid "Please input the URL for your link. I.e. http://www.themenectar.com"
+msgstr ""
+
+#: ../nectar/meta/post-meta.php:80
+msgid "Please enter in the URL to your .m4v video file"
+msgstr ""
+
+#: ../nectar/meta/post-meta.php:87
+msgid "Please enter in the URL to your .ogv video file"
+msgstr ""
+
+#: ../nectar/meta/post-meta.php:94
+msgid ""
+"This will be the image displayed when the video has not been played yet. The "
+"image should be at least 680px wide. Click the \"Upload\" button to begin "
+"uploading your image, followed by \"Select File\" once you have made your "
+"selection."
+msgstr ""
+
+#: ../nectar/meta/post-meta.php:101
+msgid ""
+"If the video is an embed rather than self hosted, enter in a Youtube or "
+"Vimeo embed code here. The width should be a minimum of 670px."
+msgstr ""
+
+#: ../nectar/meta/post-meta.php:115
+msgid "Audio Settings"
+msgstr ""
+
+#: ../nectar/meta/post-meta.php:122
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:558
+msgid "MP3 File URL"
+msgstr ""
+
+#: ../nectar/meta/post-meta.php:123
+msgid "Please enter in the URL to the .mp3 file"
+msgstr ""
+
+#: ../nectar/meta/post-meta.php:129
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:559
+msgid "OGA File URL"
+msgstr ""
+
+#: ../nectar/meta/post-meta.php:130
+msgid "Please enter in the URL to the .ogg or .oga file"
+msgstr ""
+
+#: ../nectar/options/defaults.php:45 ../nectar/options/defaults.php:47
+msgid "Options"
+msgstr ""
+
+#: ../nectar/options/defaults.php:235 ../nectar/options/defaults.php:236
+#: ../nectar/options/defaults.php:670
+msgid "Import / Export"
+msgstr ""
+
+#: ../nectar/options/defaults.php:255 ../nectar/options/defaults.php:256
+#: ../nectar/options/defaults.php:696 ../nectar/options/defaults.php:769
+msgid "Dev Mode Info"
+msgstr ""
+
+#: ../nectar/options/defaults.php:347
+msgid "Are you sure? You will lose all custom values."
+msgstr ""
+
+#: ../nectar/options/defaults.php:627
+msgid "Reset to Defaults"
+msgstr ""
+
+#: ../nectar/options/defaults.php:633
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: ../nectar/options/defaults.php:635
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: ../nectar/options/defaults.php:640
+msgid "<strong>Settings have changed, you should save them!</strong>"
+msgstr ""
+
+#: ../nectar/options/defaults.php:641
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: ../nectar/options/defaults.php:642
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: ../nectar/options/defaults.php:714
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../nectar/options/defaults.php:715
+msgid "Import Options"
+msgstr ""
+
+#: ../nectar/options/defaults.php:716
+msgid "Import from file"
+msgstr ""
+
+#: ../nectar/options/defaults.php:716
+msgid "Import from URL"
+msgstr ""
+
+#: ../nectar/options/defaults.php:721
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../nectar/options/defaults.php:731
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../nectar/options/defaults.php:738
+msgid "Import"
+msgstr ""
+
+#: ../nectar/options/defaults.php:738
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../nectar/options/defaults.php:741
+msgid "Export Options"
+msgstr ""
+
+#: ../nectar/options/defaults.php:743
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../nectar/options/defaults.php:746
+msgid "Copy"
+msgstr ""
+
+#: ../nectar/options/defaults.php:746
+msgid "Copy Link"
+msgstr ""
+
+#: ../nectar/options/fonts.php:52
+msgid "Font Styles"
+msgstr ""
+
+#: ../nectar/options/fonts.php:53
+msgid "Book"
+msgstr ""
+
+#: ../nectar/options/fonts.php:54
+msgid "Normal"
+msgstr ""
+
+#: ../nectar/options/fonts.php:55
+msgid "Italic"
+msgstr ""
+
+#: ../nectar/options/fonts.php:56
+msgid "Semi-Bold"
+msgstr ""
+
+#: ../nectar/options/fonts.php:57
+msgid "Bold"
+msgstr ""
+
+#: ../nectar/options/options-init.php:26
+msgid "A Section added by hook"
+msgstr ""
+
+#: ../nectar/options/options-init.php:27
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../nectar/options/options-init.php:135
+#: ../nectar/options/options-init.php:139
+msgid "Salient"
+msgstr ""
+
+#: ../nectar/options/options-init.php:178
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../nectar/options/options-init.php:179
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../nectar/options/options-init.php:184
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../nectar/options/options-init.php:191
+msgid "General Settings"
+msgstr ""
+
+#: ../nectar/options/options-init.php:192
+msgid ""
+"<p class=\"description\">Welcome to the Salient options panel! You can "
+"switch between option groups by using the left-hand tabs.</p>"
+msgstr ""
+
+#: ../nectar/options/options-init.php:197
+msgid "Favicon Upload"
+msgstr ""
+
+#: ../nectar/options/options-init.php:198
+msgid "Upload a 16px x 16px .png or .gif image that will be your favicon."
+msgstr ""
+
+#: ../nectar/options/options-init.php:204
+msgid "Accent Color"
+msgstr ""
+
+#: ../nectar/options/options-init.php:212
+msgid "Back To Top Button"
+msgstr ""
+
+#: ../nectar/options/options-init.php:213
+msgid "Toggle whether or not to enable a back to top button on your pages."
+msgstr ""
+
+#: ../nectar/options/options-init.php:221
+msgid "Smooth Scrolling"
+msgstr ""
+
+#: ../nectar/options/options-init.php:222
+msgid ""
+"Toggle whether or not to enable smooth scrolling (This also toggles the "
+"styled scrollbar)."
+msgstr ""
+
+#: ../nectar/options/options-init.php:230
+msgid "Enable Responsive Design"
+msgstr ""
+
+#: ../nectar/options/options-init.php:231
+msgid ""
+"This adjusts the layout of your website depending on the screen size/device."
+msgstr ""
+
+#: ../nectar/options/options-init.php:239
+msgid "Call to Action Text"
+msgstr ""
+
+#: ../nectar/options/options-init.php:240
+msgid ""
+"Add the text that you would like to appear in the global call to action "
+"section."
+msgstr ""
+
+#: ../nectar/options/options-init.php:246
+msgid "Call to Action Button Text"
+msgstr ""
+
+#: ../nectar/options/options-init.php:247
+msgid ""
+"If you would like a button to be the link in the global call to action "
+"section, please enter the text for it here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:253
+msgid "Call to Action Button Link URL"
+msgstr ""
+
+#: ../nectar/options/options-init.php:254
+msgid "Please enter the URL for the call to action section here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:260
+msgid "Google Analytics"
+msgstr ""
+
+#: ../nectar/options/options-init.php:261
+msgid "Please enter in your google analytics tracking code here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:267
+msgid "Custom CSS"
+msgstr ""
+
+#: ../nectar/options/options-init.php:268
+msgid ""
+"If you have any custom CSS you would like added to the site, please enter it "
+"here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:284
+msgid "Typography Options"
+msgstr ""
+
+#: ../nectar/options/options-init.php:285
+msgid ""
+"See previews of all these fonts at <a target=\"_blank\" href=\"http://www."
+"google.com/fonts/\">Google Web Fonts</a>"
+msgstr ""
+
+#: ../nectar/options/options-init.php:291
+msgid "Use Custom Fonts?"
+msgstr ""
+
+#: ../nectar/options/options-init.php:301
+msgid "Body"
+msgstr ""
+
+#: ../nectar/options/options-init.php:309
+#: ../nectar/options/options-init.php:337
+#: ../nectar/options/options-init.php:365
+#: ../nectar/options/options-init.php:392
+#: ../nectar/options/options-init.php:419
+#: ../nectar/options/options-init.php:465
+#: ../nectar/options/options-init.php:492
+msgid "Font Size"
+msgstr ""
+
+#: ../nectar/options/options-init.php:317
+#: ../nectar/options/options-init.php:345
+#: ../nectar/options/options-init.php:373
+#: ../nectar/options/options-init.php:400
+#: ../nectar/options/options-init.php:446
+#: ../nectar/options/options-init.php:473
+#: ../nectar/options/options-init.php:500
+msgid "Font Style"
+msgstr ""
+
+#: ../nectar/options/options-init.php:329
+msgid "Navigation"
+msgstr ""
+
+#: ../nectar/options/options-init.php:357
+msgid "Navigation Dropdown"
+msgstr ""
+
+#: ../nectar/options/options-init.php:384
+msgid "Home Slider Caption"
+msgstr ""
+
+#: ../nectar/options/options-init.php:411
+msgid "Standard Header"
+msgstr ""
+
+#: ../nectar/options/options-init.php:457
+msgid "Sidebar, Carousel, Button & Footer Headers"
+msgstr ""
+
+#: ../nectar/options/options-init.php:484
+msgid "Sub-headers & Team Member Names"
+msgstr ""
+
+#: ../nectar/options/options-init.php:510
+msgid "Include Latin Characters"
+msgstr ""
+
+#: ../nectar/options/options-init.php:528
+msgid "Header Options"
+msgstr ""
+
+#: ../nectar/options/options-init.php:529
+msgid "All header related options are listed here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:534
+msgid "Use Image for Logo?"
+msgstr ""
+
+#: ../nectar/options/options-init.php:535
+msgid ""
+"If left unchecked, plain text will be used instead (generated from site "
+"name)."
+msgstr ""
+
+#: ../nectar/options/options-init.php:542
+msgid "Logo Upload"
+msgstr ""
+
+#: ../nectar/options/options-init.php:543
+msgid "Upload your logo here and enter the height of it below"
+msgstr ""
+
+#: ../nectar/options/options-init.php:549
+msgid "Logo Height"
+msgstr ""
+
+#: ../nectar/options/options-init.php:550
+msgid "Don't include \"px\" in the string. e.g. 30"
+msgstr ""
+
+#: ../nectar/options/options-init.php:557
+msgid "Header Padding"
+msgstr ""
+
+#: ../nectar/options/options-init.php:558
+msgid "Don't include \"px\" in the string. e.g. 28"
+msgstr ""
+
+#: ../nectar/options/options-init.php:565
+msgid "Header Resize On Scroll"
+msgstr ""
+
+#: ../nectar/options/options-init.php:566
+msgid "Do you want the header to shrink a little when you scroll?"
+msgstr ""
+
+#: ../nectar/options/options-init.php:578
+msgid "Footer Options"
+msgstr ""
+
+#: ../nectar/options/options-init.php:579
+msgid ""
+"All footer related options are listed here. Remember to include the \"http://"
+"\" in any URLs!"
+msgstr ""
+
+#: ../nectar/options/options-init.php:584
+msgid "Main Footer Area"
+msgstr ""
+
+#: ../nectar/options/options-init.php:585
+msgid "Do you want use the main footer that contains all the widgets areas?"
+msgstr ""
+
+#: ../nectar/options/options-init.php:593
+msgid "Footer Copyright Section Text"
+msgstr ""
+
+#: ../nectar/options/options-init.php:594
+msgid ""
+"Please enter the copyright section text. e.g. All Rights Reserved, Salient "
+"Inc."
+msgstr ""
+
+#: ../nectar/options/options-init.php:601
+msgid "Use Facebook Icon"
+msgstr ""
+
+#: ../nectar/options/options-init.php:609
+msgid "Facebook URL"
+msgstr ""
+
+#: ../nectar/options/options-init.php:610
+msgid "Please enter in your Facebook URL."
+msgstr ""
+
+#: ../nectar/options/options-init.php:617
+msgid "Use Twitter Icon"
+msgstr ""
+
+#: ../nectar/options/options-init.php:625
+msgid "Twitter URL"
+msgstr ""
+
+#: ../nectar/options/options-init.php:626
+msgid "Please enter in your Twitter URL."
+msgstr ""
+
+#: ../nectar/options/options-init.php:633
+msgid "Use Google+ Icon"
+msgstr ""
+
+#: ../nectar/options/options-init.php:641
+msgid "Google+ URL"
+msgstr ""
+
+#: ../nectar/options/options-init.php:642
+msgid "Please enter in your Google+ URL."
+msgstr ""
+
+#: ../nectar/options/options-init.php:649
+msgid "Use Vimeo Icon"
+msgstr ""
+
+#: ../nectar/options/options-init.php:657
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../nectar/options/options-init.php:658
+msgid "Please enter in your Vimeo URL."
+msgstr ""
+
+#: ../nectar/options/options-init.php:665
+msgid "Use Dribbble Icon"
+msgstr ""
+
+#: ../nectar/options/options-init.php:673
+msgid "Dribbble URL"
+msgstr ""
+
+#: ../nectar/options/options-init.php:674
+msgid "Please enter in your Dribbble URL."
+msgstr ""
+
+#: ../nectar/options/options-init.php:681
+msgid "Use Pinterest Icon"
+msgstr ""
+
+#: ../nectar/options/options-init.php:689
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../nectar/options/options-init.php:690
+msgid "Please enter in your Pinterest URL."
+msgstr ""
+
+#: ../nectar/options/options-init.php:697
+msgid "Use Youtube Icon"
+msgstr ""
+
+#: ../nectar/options/options-init.php:705
+msgid "Youtube URL"
+msgstr ""
+
+#: ../nectar/options/options-init.php:706
+msgid "Please enter in your Youtube URL."
+msgstr ""
+
+#: ../nectar/options/options-init.php:713
+msgid "Use Tumblr Icon"
+msgstr ""
+
+#: ../nectar/options/options-init.php:721
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../nectar/options/options-init.php:722
+msgid "Please enter in your Tumblr URL."
+msgstr ""
+
+#: ../nectar/options/options-init.php:729
+msgid "Use LinkedIn Icon"
+msgstr ""
+
+#: ../nectar/options/options-init.php:737
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../nectar/options/options-init.php:738
+msgid "Please enter in your LinkedIn URL."
+msgstr ""
+
+#: ../nectar/options/options-init.php:745
+msgid "Use RSS Icon"
+msgstr ""
+
+#: ../nectar/options/options-init.php:753
+msgid "RSS URL"
+msgstr ""
+
+#: ../nectar/options/options-init.php:754
+msgid ""
+"If you have an external RSS feed such as Feedburner, please enter it here. "
+"Will use built in Wordpress feed if left blank."
+msgstr ""
+
+#: ../nectar/options/options-init.php:761
+msgid "Use Behance Icon"
+msgstr ""
+
+#: ../nectar/options/options-init.php:769
+msgid "Behance URL"
+msgstr ""
+
+#: ../nectar/options/options-init.php:770
+msgid "Please enter in your Behance URL."
+msgstr ""
+
+#: ../nectar/options/options-init.php:777
+msgid "Use Instagram Icon"
+msgstr ""
+
+#: ../nectar/options/options-init.php:785
+msgid "Instagram URL"
+msgstr ""
+
+#: ../nectar/options/options-init.php:786
+msgid "Please enter in your Instagram URL."
+msgstr ""
+
+#: ../nectar/options/options-init.php:796
+msgid "Home Options"
+msgstr ""
+
+#: ../nectar/options/options-init.php:797
+msgid "All home page related options are listed here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:802
+msgid "Slider Caption Animations"
+msgstr ""
+
+#: ../nectar/options/options-init.php:803
+msgid "This will add transition animations to your captions."
+msgstr ""
+
+#: ../nectar/options/options-init.php:811
+msgid "Autoplay Slider?"
+msgstr ""
+
+#: ../nectar/options/options-init.php:812
+msgid ""
+"This will cause the automatic advance of slides until the user begins "
+"interaction."
+msgstr ""
+
+#: ../nectar/options/options-init.php:820
+msgid "Slider Advance Speed"
+msgstr ""
+
+#: ../nectar/options/options-init.php:821
+msgid ""
+"This is how long it takes before automatically switching to the next slide."
+msgstr ""
+
+#: ../nectar/options/options-init.php:828
+msgid "Slider Animation Speed"
+msgstr ""
+
+#: ../nectar/options/options-init.php:829
+msgid "This is how long it takes to animate when switching between slides."
+msgstr ""
+
+#: ../nectar/options/options-init.php:836
+msgid "Slider Height"
+msgstr ""
+
+#: ../nectar/options/options-init.php:837
+msgid ""
+"Please enter your desired height for the home slider. <br/> The safe minimum "
+"height is 400. <br/> The theme demo uses 650."
+msgstr ""
+
+#: ../nectar/options/options-init.php:844
+msgid "Slider Background Color"
+msgstr ""
+
+#: ../nectar/options/options-init.php:856
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../nectar/options/options-init.php:857
+msgid "All portfolio related options are listed here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:863
+msgid "Main Layout"
+msgstr ""
+
+#: ../nectar/options/options-init.php:864
+msgid "Please select the number of columns you would like for your portfolio."
+msgstr ""
+
+#: ../nectar/options/options-init.php:875
+msgid "Extra Content Editor"
+msgstr ""
+
+#: ../nectar/options/options-init.php:876
+msgid ""
+"This will place another editor inside your portfolio items that will allow "
+"you to add anything you desire below the item. e.g. Stacked images, text, "
+"video embeds etc."
+msgstr ""
+
+#: ../nectar/options/options-init.php:884
+msgid "Portfolio Sidebar Follow on Scroll"
+msgstr ""
+
+#: ../nectar/options/options-init.php:885
+msgid ""
+"When supplying extra content, the page can get quite tall and feel empty on "
+"the right side. Enable this option to have your sidebar follow you down the "
+"page."
+msgstr ""
+
+#: ../nectar/options/options-init.php:893
+#: ../nectar/options/options-init.php:1019
+msgid "Social Media Sharing Buttons"
+msgstr ""
+
+#: ../nectar/options/options-init.php:894
+msgid "Activate this to enable social sharing buttons on your portfolio items."
+msgstr ""
+
+#: ../nectar/options/options-init.php:903
+#: ../nectar/options/options-init.php:1029
+msgid "Facebook"
+msgstr ""
+
+#: ../nectar/options/options-init.php:911
+#: ../nectar/options/options-init.php:1037
+msgid "Twitter"
+msgstr ""
+
+#: ../nectar/options/options-init.php:919
+#: ../nectar/options/options-init.php:1045
+msgid "Pinterest"
+msgstr ""
+
+#: ../nectar/options/options-init.php:928
+msgid "Display Dates on Projects?"
+msgstr ""
+
+#: ../nectar/options/options-init.php:929
+msgid "Toggle whether or not to show the date on your projects."
+msgstr ""
+
+#: ../nectar/options/options-init.php:937
+msgid "Fade In Portfolio Items"
+msgstr ""
+
+#: ../nectar/options/options-init.php:938
+msgid ""
+"Do you want the portfolio items on your main projects page to smoothly fade "
+"in?"
+msgstr ""
+
+#: ../nectar/options/options-init.php:946
+msgid "Portfolio Pagination"
+msgstr ""
+
+#: ../nectar/options/options-init.php:947
+msgid "Would you like your portfolio items to be paginated?"
+msgstr ""
+
+#: ../nectar/options/options-init.php:955
+msgid "Items Per page"
+msgstr ""
+
+#: ../nectar/options/options-init.php:956
+msgid "How many of your portfolio items would you like to display per page?"
+msgstr ""
+
+#: ../nectar/options/options-init.php:963
+msgid "Custom Slug"
+msgstr ""
+
+#: ../nectar/options/options-init.php:964
+msgid ""
+"If you want your portfolio post type to have a custom slug in the url, "
+"please enter it here. <br/><br/> <b>You will still have to refresh your "
+"permalinks after saving this!</b> <br/>This is done by going to Settings > "
+"Permalinks and clicking save."
+msgstr ""
+
+#: ../nectar/options/options-init.php:970
+msgid "Custom Recent Projects Title"
+msgstr ""
+
+#: ../nectar/options/options-init.php:971
+msgid ""
+"This is be used anywhere you place the recent work shortcode and on the "
+"\"Recent Work\" home layout. e.g. Recent Work"
+msgstr ""
+
+#: ../nectar/options/options-init.php:977
+msgid "Custom Recent Projects Link Text"
+msgstr ""
+
+#: ../nectar/options/options-init.php:978
+msgid ""
+"This is be used anywhere you place the recent work shortcode and on the "
+"\"Recent Work\" home layout. e.g. View All Work"
+msgstr ""
+
+#: ../nectar/options/options-init.php:984
+msgid "Custom Portfolio Page Sortable Text"
+msgstr ""
+
+#: ../nectar/options/options-init.php:985
+msgid "e.g. Sort Portfolio"
+msgstr ""
+
+#: ../nectar/options/options-init.php:996
+msgid "Blog Options"
+msgstr ""
+
+#: ../nectar/options/options-init.php:997
+msgid "All blog related options are listed here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1002
+msgid "Author's Bio"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1003
+msgid "Display the author's bio at the bottom of posts?"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1010
+msgid "Author's Gravatar Size"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1011
+msgid "Don't include \"px\" in the string. e.g. 80"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1020
+msgid "Activate this to enable social sharing buttons on your blog posts."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1054
+msgid "Display Tags"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1055
+msgid "Display tags at the bottom of posts?"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1064
+msgid "Display Full Date"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1065
+msgid "This will add the year to the date post meta on all blog pages."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1073
+msgid "Display Pagination Numbers"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1074
+msgid "Do you want the page numbers to be visible in your pagination?"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1082
+msgid "Custom Recent Posts Title"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1083
+msgid ""
+"This is be used anywhere you place the recent posts shortcode and on the "
+"\"Recent Posts\" home layout. e.g. Recent Posts"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1089
+msgid "Custom Recent Posts Link Text"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1090
+msgid ""
+"This is be used anywhere you place the recent posts shortcode and on the "
+"\"Recent Posts\" home layout. e.g. View All Posts"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1103
+msgid "Contact Options"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1104
+msgid ""
+"To convert an address into latitude & longitude please use <a href=\"http://"
+"www.latlong.net/convert-address-to-lat-long.html\">this converter.</a>"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1109
+msgid "Default Map Zoom Level"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1110
+msgid ""
+"Value should be between 1-18, 1 being the entire earth and 18 being right at "
+"street level."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1117
+msgid "Enable Map Zoom In/Out"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1118
+msgid "Do you want users to be able to zoom in/out on the map?"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1125
+msgid "Map Center Latitude"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1126
+msgid "Please enter the latitude for the maps center point."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1133
+msgid "Map Center Longitude"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1134
+msgid "Please enter the longitude for the maps center point."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1141
+msgid "Use Image for Markers"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1142
+msgid "Do you want a custom image to be used for the map markers?"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1149
+msgid "Marker Icon Upload"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1150
+msgid ""
+"Please upload an image that will be used for all the markers on your map."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1156
+msgid "Enable Marker Animation"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1157
+msgid "This will cause your markers to do a quick bounce as they load in."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1164
+msgid "Location #1"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1165
+msgid "Toggle location #1"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1174
+#: ../nectar/options/options-init.php:1209
+#: ../nectar/options/options-init.php:1244
+#: ../nectar/options/options-init.php:1279
+#: ../nectar/options/options-init.php:1315
+#: ../nectar/options/options-init.php:1350
+#: ../nectar/options/options-init.php:1386
+#: ../nectar/options/options-init.php:1422
+#: ../nectar/options/options-init.php:1458
+#: ../nectar/options/options-init.php:1493
+msgid "Latitude"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1175
+msgid "Please enter the latitude for your first location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1182
+#: ../nectar/options/options-init.php:1217
+#: ../nectar/options/options-init.php:1252
+#: ../nectar/options/options-init.php:1287
+#: ../nectar/options/options-init.php:1323
+#: ../nectar/options/options-init.php:1358
+#: ../nectar/options/options-init.php:1394
+#: ../nectar/options/options-init.php:1430
+#: ../nectar/options/options-init.php:1466
+#: ../nectar/options/options-init.php:1501
+msgid "Longitude"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1183
+msgid "Please enter the longitude for your first location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1190
+#: ../nectar/options/options-init.php:1225
+#: ../nectar/options/options-init.php:1260
+#: ../nectar/options/options-init.php:1295
+#: ../nectar/options/options-init.php:1331
+#: ../nectar/options/options-init.php:1366
+#: ../nectar/options/options-init.php:1402
+#: ../nectar/options/options-init.php:1438
+#: ../nectar/options/options-init.php:1474
+#: ../nectar/options/options-init.php:1509
+msgid "Map Infowindow Text"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1191
+msgid ""
+"If you would like to display any text in an info window for your first "
+"location, please enter it here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1199
+msgid "Location #2"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1200
+msgid "Toggle location #2"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1210
+msgid "Please enter the latitude for your second location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1218
+msgid "Please enter the longitude for your second location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1226
+msgid ""
+"If you would like to display any text in an info window for your second "
+"location, please enter it here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1234
+msgid "Location #3"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1235
+msgid "Toggle location #3"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1245
+msgid "Please enter the latitude for your third location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1253
+msgid "Please enter the longitude for your third location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1261
+msgid ""
+"If you would like to display any text in an info window for your third "
+"location, please enter it here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1269
+msgid "Location #4"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1270
+msgid "Toggle location #4"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1280
+msgid "Please enter the latitude for your fourth location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1288
+msgid "Please enter the longitude for your fourth location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1296
+msgid ""
+"If you would like to display any text in an info window for your fourth "
+"location, please enter it here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1305
+msgid "Location #5"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1306
+msgid "Toggle location #5"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1316
+msgid "Please enter the latitude for your fifth location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1324
+msgid "Please enter the longitude for your fifth location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1332
+msgid ""
+"If you would like to display any text in an info window for your fifth "
+"location, please enter it here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1340
+msgid "Location #6"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1341
+msgid "Toggle location #6"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1351
+msgid "Please enter the latitude for your sixth location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1359
+msgid "Please enter the longitude for your sixth location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1367
+msgid ""
+"If you would like to display any text in an info window for your sixth "
+"location, please enter it here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1376
+msgid "Location #7"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1377
+msgid "Toggle location #7"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1387
+msgid "Please enter the latitude for your seventh location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1395
+msgid "Please enter the longitude for your seventh location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1403
+msgid ""
+"If you would like to display any text in an info window for your seventh "
+"location, please enter it here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1412
+msgid "Location #8"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1413
+msgid "Toggle location #8"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1423
+msgid "Please enter the latitude for your eighth location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1431
+msgid "Please enter the longitude for your eighth location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1439
+msgid ""
+"If you would like to display any text in an info window for your eighth "
+"location, please enter it here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1448
+msgid "Location #9"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1449
+msgid "Toggle location #9"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1459
+msgid "Please enter the latitude for your ninth location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1467
+msgid "Please enter the longitude for your ninth location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1475
+msgid ""
+"If you would like to display any text in an info window for your ninth "
+"location, please enter it here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1483
+msgid "Location #10"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1484
+msgid "Toggle location #10"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1494
+msgid "Please enter the latitude for your tenth location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1502
+msgid "Please enter the longitude for your tenth location."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1510
+msgid ""
+"If you would like to display any text in an info window for your tenth "
+"location, please enter it here."
+msgstr ""
+
+#: ../nectar/options/options-init.php:1518
+msgid "Show More or Less Locations"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1548
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../nectar/options/options-init.php:1549
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../nectar/options/options-init.php:1550
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../nectar/options/options-init.php:1551
+msgid "Documentation: "
+msgstr ""
+
+#: ../nectar/options/options-init.php:1559
+msgid "Theme Information"
+msgstr ""
+
+#: ../nectar/options/options-init.php:1567
+msgid "Documentation"
+msgstr ""
+
+#: ../nectar/options/fields/color_gradient/field_color_gradient.php:28
+#: ../nectar/options/fields/color_gradient/field_color_gradient.php:33
+msgid "From:"
+msgstr ""
+
+#: ../nectar/options/fields/color_gradient/field_color_gradient.php:29
+msgid "To:"
+msgstr ""
+
+#: ../nectar/options/fields/color_gradient/field_color_gradient.php:35
+msgid " To:"
+msgstr ""
+
+#: ../nectar/options/fields/multi_text/field_multi_text.php:31
+#: ../nectar/options/fields/multi_text/field_multi_text.php:35
+#: ../nectar/options/fields/multi_text/field_multi_text.php:38
+msgid "Remove"
+msgstr ""
+
+#: ../nectar/options/fields/multi_text/field_multi_text.php:40
+msgid "Add More"
+msgstr ""
+
+#: ../nectar/options/validation/color/validation_color.php:14
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../nectar/options/validation/comma_numeric/validation_comma_numeric.php:14
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: ../nectar/options/validation/date/validation_date.php:14
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../nectar/options/validation/email/validation_email.php:14
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../nectar/options/validation/no_html/validation_no_html.php:14
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../nectar/options/validation/no_special_chars/validation_no_special_chars.php:14
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../nectar/options/validation/numeric/validation_numeric.php:14
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../nectar/options/validation/url/validation_url.php:14
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../nectar/tinymce/shortcode-processing.php:520
+msgid " Comments"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode-processing.php:522
+msgid "1 Comment"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/option-element.php:72
+msgid "Remove Tab"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/option-element.php:72
+msgid "Add Tab"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/option-element.php:86
+msgid "Remove Bar"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/option-element.php:86
+msgid "Add Bar"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/option-element.php:151
+msgid "Remove Client"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/option-element.php:151
+msgid "Add Client"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcode-generator.php:24
+msgid "Choose a shortcode"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcode-generator.php:80
+msgid "Content: "
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcode-generator.php:88
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:10
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:460
+msgid "Columns"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:15
+msgid "One Half (1/2)"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:17
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:29
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:39
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:51
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:61
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:73
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:83
+msgid "Boxed Column"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:18
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:30
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:40
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:52
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:62
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:74
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:84
+msgid "Centered Text"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:19
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:31
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:41
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:53
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:63
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:75
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:85
+msgid "Last Column"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:19
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:31
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:41
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:53
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:63
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:75
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:85
+msgid ""
+"Check this for the last column in a row. i.e. when the columns add up to 1."
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:27
+msgid "One Third Column (1/3)"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:37
+msgid "Two Thirds Column (2/3)"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:49
+msgid "One Fourth Column (1/4)"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:59
+msgid "Three Fourths Column (3/4)"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:71
+msgid "One Sixth Column (1/6)"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:81
+msgid "Five Sixths Column (5/6)"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:96
+msgid "Elements"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:102
+msgid "Centered Heading"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:104
+msgid "Subtitle"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:111
+msgid "Divider"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:113
+msgid "Show line?"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:120
+msgid "Button"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:124
+msgid "Size"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:137
+msgid "Text"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:146
+msgid "Icon"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:150
+msgid "Icon Size"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:151
+msgid ""
+"Tiny is recommended to be used inline with regular text. <br/> Small is "
+"recommended to be used inline right before heading text. <br> Large is "
+"recommended to be used at the top of columns."
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:419
+msgid "Toggle Panel"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:421
+msgid "Title"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:428
+msgid "Tabbed Section"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:437
+msgid "Bar Graph"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:446
+msgid "Clients"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:448
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:477
+msgid "Image"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:456
+msgid "Pricing Table"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:461
+msgid "How many columns would you like?"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:475
+msgid "Team Member"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:479
+msgid "Job Position"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:480
+msgid "Description"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:481
+msgid "Social Media"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:481
+msgid ""
+"Enter any social media links with a comma separated list. e.g. Facebook,"
+"http://facebook.com, Twitter,http://twitter.com"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:488
+msgid "Carousel"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:492
+msgid "Carousel Title"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:496
+msgid "Scroll Speed"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:497
+msgid "Enter in milliseconds (default is 700)"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:501
+msgid "Easing"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:536
+msgid "Click here"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:536
+msgid "to see examples of these."
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:545
+msgid "Video"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:548
+msgid "OGV FILE URL"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:549
+msgid "The preview image should be the same dimensions as your video."
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:556
+msgid "Audio"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:569
+msgid "Recent Posts/Work"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:575
+msgid "Recent Posts"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:579
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:592
+msgid "Enable Title Labels?"
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:580
+msgid ""
+"These labels are defined by you in the \"Blog Options\" tab of your theme "
+"options panel."
+msgstr ""
+
+#: ../nectar/tinymce/shortcode_generator/shortcodes-definitions.php:593
+msgid ""
+"These labels are defined by you in the \"Portfolio Options\" tab of your "
+"theme options panel."
+msgstr ""
